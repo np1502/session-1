@@ -1,2 +1,6 @@
 hi
+<<<<<<< HEAD
 wedwds
+=======
+tedfds dfs
+>>>>>>> f292272b08027c4434ff13fe029cb56375a8f65a
